@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sebastian Palomares Cabrera (SebasPCDev)</h1>
-<h3 align="center">An engineer and passionate full stack developer in training from Colombia</h3>
+<div id="header" align="center">
+  <img 
+  style="object-fit: cover;" src="https://res.cloudinary.com/drwhxgsfu/image/upload/v1717184951/bannergithub_pdapfn.png" width="100%" height="200px"/>
+</div>
 
 - 🔭 I’m currently working on [personal projects](https://coco-plus-front.vercel.app/)
 
