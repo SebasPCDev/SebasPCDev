@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img 
-  style="object-fit: cover;" src="https://res.cloudinary.com/drwhxgsfu/image/upload/v1717185026/bannergithub_zo3zap.webp" width="100%" height="200px"/>
+  style="object-fit: cover;" src="https://res.cloudinary.com/drwhxgsfu/image/upload/v1717185152/bannergithubresized_s5ku2h.webp" width="100%" height="200px"/>
 </div>
 
 - 🔭 I’m currently working on [personal projects](https://coco-plus-front.vercel.app/)
