@@ -3,19 +3,24 @@
   style="object-fit: contain;" src="/assets/banner.png" width="100%" height="100%"/>
 </div>
 
-Mis acercamientos con la programación inician desde el año 2015, cuando inicio mi carrera de ingeniería biomédica. Desde ese entonces, desperté cierta afinidad con la resolución de problemas por medio de código y algoritmos. Sin embargo, para <strong>Enero del 2024</strong>, luego de casi 4 años trabajando, decidí formalizar mis habilidades como desarrollador y emprendí camino hacia una nueva etapa, buscando un desarrollo personal y profesional que me permita poner en práctica y llevar a un siguiente nivel mis conocimientos y capacidades como un potencial desarrollador full stack.
+### Sobre mí
 
-- 🔭 Actualmente me encuentro trabajando en proyectos personales
-- 
+Mis acercamientos con la programación inician desde el año 2015, cuando comencé mi carrera de Ingeniería Biomédica. Desde entonces, he desarrollado una gran afinidad por la **resolución de problemas** mediante **código** y **algoritmos**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sebaspcdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebaspcdev" height="30" width="40" /></a>
-</p>
+En enero de 2024, tras casi cuatro años de experiencia laboral, decidí formalizar mis habilidades como desarrollador. Emprendí un nuevo camino hacia una etapa de crecimiento personal y profesional, con el objetivo de poner en práctica y llevar al siguiente nivel mis conocimientos y capacidades como potencial **desarrollador Full Stack**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Habilidades
+- Programación en Python, JavaScript, y C++
+- Desarrollo web con HTML, CSS, y React
+- Manejo de bases de datos con SQL y MongoDB
+- Control de versiones con Git y GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebaspcdev&show_icons=true&locale=en&layout=compact" alt="sebaspcdev" /></p>
+### Proyectos Destacados
+- [Proyecto 1](enlace-al-proyecto): Descripción breve del proyecto.
+- [Proyecto 2](enlace-al-proyecto): Descripción breve del proyecto.
+- [Proyecto 3](enlace-al-proyecto): Descripción breve del proyecto.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaspcdev&show_icons=true&locale=en" alt="sebaspcdev" /></p>
+### Contacto
+- [LinkedIn](enlace-a-linkedin)
+- [Correo Electrónico](mailto:tuemail@example.com)
+
