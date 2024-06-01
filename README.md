@@ -50,7 +50,10 @@ En enero de 2024, tras casi cuatro años de experiencia laboral, decidí formali
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 
-COCO+ es el proyecto más reciente que he desarrollado con un grupo de estudiantes como objetivo de graduación en la academia. El proyecto tiene como objetivo, el desarrollo de una plataforma para que empresas asocidas, puedan brindar a sus trabajadores remotos la posibilidad de conectar con coworkings (espacios de trabajo compartidos) y hacer uso de estos para su desempeño laboral. La aplicación brinda una solución para usuarios, incluyendo empleados, dueños de coworkings, gerentes de empresas y claramente los dueños de la plataforma, puedan llevar un segumiento de toda su actividad, como gestión de reservas, activación/bloqueos de usuarios, sistema de tickets, sistema de reseñas, georeferenciación, entre otros.
+**COCO+** es el proyecto más reciente que he desarrollado junto a un grupo de estudiantes como objetivo de graduación en la academia. Este proyecto tiene como meta crear una plataforma que permita a empresas asociadas ofrecer a sus trabajadores remotos la posibilidad de conectarse con coworkings (espacios de trabajo compartidos) y utilizarlos para su desempeño laboral.
+
+La aplicación proporciona una solución integral para diversos usuarios, incluidos empleados, dueños de coworkings, gerentes de empresas y los propietarios de la plataforma. Las funcionalidades incluyen la gestión de reservas, activación y bloqueo de usuarios, sistema de tickets, sistema de reseñas, georeferenciación, entre otras.
+
 
 
 ## Servidor Backend para E-commerce
