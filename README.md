@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img 
-  style="object-fit: contain;" src="/assets/hibanner.png" width="100%" height="100%"/>
+  style="object-fit: contain;" src="/assets/banner.png" width="100%" height="100%"/>
 </div>
 
 - 🔭 I’m currently working on [personal projects](https://coco-plus-front.vercel.app/)
