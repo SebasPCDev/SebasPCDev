@@ -3,7 +3,10 @@
   style="object-fit: contain;" src="/assets/banner.png" width="100%" height="100%"/>
 </div>
 
-- 🔭 I’m currently working on [personal projects](https://coco-plus-front.vercel.app/)
+Mis acercamientos con la programación inician desde el año 2015, cuando inicio mi carrera de ingeniería biomédica. Desde ese entonces, desperté cierta afinidad con la resolución de problemas por medio de código y algoritmos. Sin embargo, para <strong>Enero del 2024</strong>, luego de casi 4 años trabajando, decidí formalizar mis habilidades como desarrollador y emprendí camino hacia una nueva etapa, buscando un desarrollo personal y profesional que me permita poner en práctica y llevar a un siguiente nivel mis conocimientos y capacidades como un potencial desarrollador full stack.
+
+- 🔭 Actualmente me encuentro trabajando en proyectos personales
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
